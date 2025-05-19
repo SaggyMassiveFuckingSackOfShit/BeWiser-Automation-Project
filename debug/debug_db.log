@@ -1,0 +1,9 @@
+getLastInsertedId: 99 
+cardNumberExists: DC 7669 0525 0000 0100 : 0 
+[2025-05-19 16:05:05] Entry inserted with card number of DC 7669 0525 0000 0100
+getLastInsertedId: 100 
+cardNumberExists: DC 7669 0525 0000 0101 : 0 
+[2025-05-19 16:05:18] Entry inserted with card number of DC 7669 0525 0000 0101
+getLastInsertedId: 101 
+cardNumberExists: DC 7669 0525 0000 0102 : 0 
+[2025-05-19 16:05:21] Entry inserted with card number of DC 7669 0525 0000 0102
